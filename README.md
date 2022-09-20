@@ -1,4 +1,4 @@
-# Excel-Tableau-project-Bookshop
+# Excel-Tableau-BookShop-Pivoting-Dashboarding
 Tableau Dashboard and interactive graphs for the Bookshop dataset
 
 # Link to view the dashboard
